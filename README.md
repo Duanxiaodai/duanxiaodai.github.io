@@ -13,7 +13,7 @@
   - 并发
   - NIO
   - Java 8 特性
-  - JVM
+  - [JVM](https://duanxiaodai.github.io/JVM+.html )
   - 容器
 - 数据结构与算法
   - 剑指Offer
