@@ -46,7 +46,7 @@
 - [SpringCloud](https://duanxiaodai.github.io/SpringCloud2018(1).html)
 - [Redis](https://duanxiaodai.github.io/redis%E5%88%9D%E7%BA%A7%E7%AC%94%E8%AE%B0.html)
 - [ActiveMQ](https://duanxiaodai.github.io/ActiveMQ.html)
-- Mycat
+- [Mycat](https://duanxiaodai.github.io/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20MyCat%20.html)
 
 ## 操作系统
 
