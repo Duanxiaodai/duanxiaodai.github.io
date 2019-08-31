@@ -39,7 +39,7 @@
 
 - 集群
 - 分布式
-- Nginx
+- [Nginx](https://duanxiaodai.github.io/Nginx%20.html)
 - Tomcat
 - [Dubbo](https://duanxiaodai.github.io/Dubbo.html)
 - [Zookeeper](https://duanxiaodai.github.io/%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%8A%80%E6%9C%AF%E4%B9%8BZookeeper.html)
