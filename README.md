@@ -16,6 +16,7 @@
   - [JVM](https://duanxiaodai.github.io/JVM+.html )
   - 容器
 - 数据结构与算法
+  - 算法基础总结
   - 剑指Offer
   - Leetcode
 - 设计模式
@@ -37,8 +38,8 @@
 
 ## 分布式设计
 
-- 集群
-- 分布式
+- [集群](./Other/mds/分布式笔记/认识微服务.md)
+- [分布式](./Other/mds/分布式笔记/认识微服务2.md)
 - [Nginx](https://duanxiaodai.github.io/Nginx%20.html)
 - Tomcat
 - [Dubbo](https://duanxiaodai.github.io/Dubbo.html)
