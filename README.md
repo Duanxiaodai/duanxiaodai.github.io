@@ -17,7 +17,7 @@
   - 集合
   - IO流
 - 数据结构与算法
-  - [算法总结](https://github.com/Duanxiaodai/java_rearrange/blob/master/%E9%98%B6%E6%AE%B5%E9%9B%B6%20%E9%99%84%E5%8A%A0/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.md)
+  - [算法总结](./Other/mds/数据结构与算法总结.md)
   - 剑指Offer
   - Leetcode
 - [设计模式](https://duanxiaodai.github.io/Java设计模式.html)
