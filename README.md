@@ -53,6 +53,17 @@
 
 - [Linux](https://www.processon.com/view/link/5d9abab8e4b03347e1332e0e)
 
+## 大数据与云计算(待更新)
+
+- Hadoop
+- Hive
+- Flume
+- Kafka
+- Storm
+- Hbase
+- Scala
+- Spark
+
 ## 工具
 
 - [Git](https://www.processon.com/view/link/5d9abaa7e4b0aca79ab8cb11)
